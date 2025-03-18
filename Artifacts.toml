@@ -1,6 +1,6 @@
 [plantuml]
-git-tree-sha1 = "1e8bd3438f8099eb5ea3af6d092f0cfd8dd0d63e"
+git-tree-sha1 = "b936a92bec75008b522a9db94de14d8589fae53e"
 
     [[plantuml.download]]
-    sha256 = "48722231d50fe7824ecf47ade270ae71cf1d216c213c94a6788211b66138662c"
-    url = "https://github.com/tz-lom/PlantUML.jl/releases/download/plantuml-v1.2024.8/plantuml.tar.gz"
+    sha256 = "61b0f2779cf2fccbe53d74b8cf66255bfb4bf91a2879583eb5799e077f17d1fe"
+    url = "https://github.com/tz-lom/PlantUML.jl/releases/download/plantuml-v1.2025.2/plantuml.tar.gz"

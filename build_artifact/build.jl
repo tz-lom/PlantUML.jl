@@ -1,6 +1,6 @@
 using Tar, SHA, Downloads, GZip, TOML, Inflate, SHA
 
-version = "1.2024.8"
+version = "1.2025.2"
 url = "https://github.com/plantuml/plantuml/releases/download/v$(version)/plantuml-$(version).jar"
 Downloads.download(url, "./plantuml.jar")
 
